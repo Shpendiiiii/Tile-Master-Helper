@@ -1,0 +1,17 @@
+C:\Users\shpenda\source\repos\TileMasterHelper\TileMasterHelper\bin\Debug\net6.0-windows\TileMasterHelper.exe
+C:\Users\shpenda\source\repos\TileMasterHelper\TileMasterHelper\bin\Debug\net6.0-windows\TileMasterHelper.deps.json
+C:\Users\shpenda\source\repos\TileMasterHelper\TileMasterHelper\bin\Debug\net6.0-windows\TileMasterHelper.runtimeconfig.json
+C:\Users\shpenda\source\repos\TileMasterHelper\TileMasterHelper\bin\Debug\net6.0-windows\TileMasterHelper.dll
+C:\Users\shpenda\source\repos\TileMasterHelper\TileMasterHelper\bin\Debug\net6.0-windows\TileMasterHelper.pdb
+C:\Users\shpenda\source\repos\TileMasterHelper\TileMasterHelper\obj\Debug\net6.0-windows\TileMasterHelper.csproj.AssemblyReference.cache
+C:\Users\shpenda\source\repos\TileMasterHelper\TileMasterHelper\obj\Debug\net6.0-windows\TileMasterHelper.Form1.resources
+C:\Users\shpenda\source\repos\TileMasterHelper\TileMasterHelper\obj\Debug\net6.0-windows\TileMasterHelper.csproj.GenerateResource.cache
+C:\Users\shpenda\source\repos\TileMasterHelper\TileMasterHelper\obj\Debug\net6.0-windows\TileMasterHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shpenda\source\repos\TileMasterHelper\TileMasterHelper\obj\Debug\net6.0-windows\TileMasterHelper.AssemblyInfoInputs.cache
+C:\Users\shpenda\source\repos\TileMasterHelper\TileMasterHelper\obj\Debug\net6.0-windows\TileMasterHelper.AssemblyInfo.cs
+C:\Users\shpenda\source\repos\TileMasterHelper\TileMasterHelper\obj\Debug\net6.0-windows\TileMasterHelper.csproj.CoreCompileInputs.cache
+C:\Users\shpenda\source\repos\TileMasterHelper\TileMasterHelper\obj\Debug\net6.0-windows\TileMasterHelper.dll
+C:\Users\shpenda\source\repos\TileMasterHelper\TileMasterHelper\obj\Debug\net6.0-windows\refint\TileMasterHelper.dll
+C:\Users\shpenda\source\repos\TileMasterHelper\TileMasterHelper\obj\Debug\net6.0-windows\TileMasterHelper.pdb
+C:\Users\shpenda\source\repos\TileMasterHelper\TileMasterHelper\obj\Debug\net6.0-windows\TileMasterHelper.genruntimeconfig.cache
+C:\Users\shpenda\source\repos\TileMasterHelper\TileMasterHelper\obj\Debug\net6.0-windows\ref\TileMasterHelper.dll
