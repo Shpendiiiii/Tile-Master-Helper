@@ -8,4 +8,4 @@ The application also includes error handling for incorrect input. If the user en
 This application is a demonstration to use .NET Core and Windows Forms to create a simple, functional, and user-friendly application.
 
 
-Please contact me at: **shpendaliu@pm.me**, if you have any issues whatsoever in running the code or running the program
+Please contact me at: **shpendaliu@pm.me**, if you have any issues whatsoever in running the program
